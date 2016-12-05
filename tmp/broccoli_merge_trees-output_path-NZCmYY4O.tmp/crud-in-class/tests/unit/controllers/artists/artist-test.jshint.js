@@ -1,0 +1,1 @@
+/Users/avni/Desktop/SC2/Modern_Web/ember/itp404/ember3/tmp/broccoli_merge_trees-input_base_path-OA8VjI0H.tmp/2/crud-in-class/tests/unit/controllers/artists/artist-test.jshint.js
